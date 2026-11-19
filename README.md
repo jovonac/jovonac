@@ -2,11 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jovonchiguina"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an Information Technology graduate from the University of La Verne and a U.S. Marine Corps veteran transitioning from a background in supply chain management and logistics into the technology industry.
-
-My military experience in asset management, enterprise resource planning (ERP) systems, and operational support has provided a strong foundation in problem-solving, accountability, and maintaining mission-critical operations.
-
-I'm passionate about IT infrastructure, networking, data center operations, cloud computing, and cybersecurity, with a particular interest in understanding how enterprise systems are built, connected, secured, and maintained.
+I'm an Information Technology graduate from the University of La Verne and a U.S. Marine Corps veteran transitioning from supply chain operations into IT. My interests include networking, data center operations, cloud infrastructure, and cybersecurity.
 
 ## 🎯 Objective
 
