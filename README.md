@@ -1,14 +1,13 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Jovon!
 <a href="https://www.linkedin.com/in/jovonchiguina"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an Information Technology graduate from the University of La Verne and a U.S. Marine Corps veteran passionate about networking, cybersecurity, cloud infrastructure, and systems engineering.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to build a career in infrastructure engineering by continuously developing my technical skills and applying them to real-world challenges.
+
+This GitHub serves as a portfolio of my hands-on projects, technical experiments, and professional growth.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
