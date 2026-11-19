@@ -1,15 +1,20 @@
-# Hello, I'm Jovon!
+# 👋 Hello, I'm Jovon!
+
 <a href="https://www.linkedin.com/in/jovonchiguina"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an Information Technology graduate from the University of La Verne and a U.S. Marine Corps veteran passionate about networking, cybersecurity, cloud infrastructure, and systems engineering.
+I'm an Information Technology graduate from the University of La Verne and a U.S. Marine Corps veteran transitioning from a background in supply chain management and logistics into the technology industry.
 
-## Objective
+My military experience in asset management, enterprise resource planning (ERP) systems, and operational support has provided a strong foundation in problem-solving, accountability, and maintaining mission-critical operations.
 
-My goal is to build a career in infrastructure engineering by continuously developing my technical skills and applying them to real-world challenges.
+I'm passionate about IT infrastructure, networking, data center operations, cloud computing, and cybersecurity, with a particular interest in understanding how enterprise systems are built, connected, secured, and maintained.
 
-This GitHub serves as a portfolio of my hands-on projects, technical experiments, and professional growth.
+## 🎯 Objective
 
-## Skills
+My goal is to build a career in **IT infrastructure and systems engineering**, leveraging my military background in supply chain operations while developing hands-on expertise in networking, data center operations, cloud technologies, and cybersecurity.
+
+This GitHub serves as a portfolio documenting my technical projects, practical experience, and continuous professional development.
+
+## 🧠 Technical Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -21,10 +26,10 @@ This GitHub serves as a portfolio of my hands-on projects, technical experiments
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## 🛠️ Technologies & Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### 🌐 Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -43,17 +48,17 @@ This GitHub serves as a portfolio of my hands-on projects, technical experiments
 
 </div>
 
-## Certifications
+## 🏅 Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Tech%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
-## In Progress
+### 📚 In Progress
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-049FD9?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Projects
+## 🚀 Projects
 - Detection Lab
 - SOC Automation Project
