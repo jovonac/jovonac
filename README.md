@@ -15,7 +15,6 @@ My goal is to build a career in **IT infrastructure and systems engineering**, l
 This GitHub serves as a portfolio documenting my technical projects, practical experience, and continuous professional development.
 
 ## 🧠 Technical Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,7 +26,15 @@ This GitHub serves as a portfolio documenting my technical projects, practical e
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## 🛠️ Technologies & Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+| Category | Technologies & Tools |
+|---|---|
+| 🖥️ **Data Center & Infrastructure** | RAID, Server Hardware, Storage Management, Hardware Troubleshooting, Network Interface Cards (NICs) |
+| 🌐 **Networking** | Cisco Packet Tracer, Wireshark, TCP/IP, VLANs, Routing & Switching, DNS, DHCP, SSH |
+| 💻 **Operating Systems** | Windows 10/11, Windows Server, Ubuntu Linux, Active Directory, Group Policy, Linux CLI |
+| ☁️ **Cloud & Virtualization** | Microsoft Azure, VMware, Oracle VirtualBox, Terraform, Azure Virtual Machines |
+| 🛡️ **Cybersecurity & Monitoring** | Splunk, Microsoft Sentinel, Microsoft Defender, Windows Firewall, Linux iptables |
+| ⚙️ **Scripting & Automation** | Python, Bash, PowerShell, Terraform |
 
 ### 🌐 Networking
 <div>
