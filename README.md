@@ -2,13 +2,15 @@
 
 <a href="https://www.linkedin.com/in/jovonchiguina"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an Information Technology graduate from the University of La Verne and a U.S. Marine Corps veteran transitioning from supply chain operations into IT. My interests include networking, data center operations, cloud infrastructure, and cybersecurity.
+I'm an Information Technology graduate from the **University of La Verne** and a **U.S. Marine Corps veteran** with a background in supply chain operations, enterprise resource planning (ERP), and asset management.
+
+My transition into technology builds on my experience supporting mission-critical operations and managing enterprise resources.
 
 ## 🎯 Objective
 
-My goal is to build a career in **IT infrastructure and systems engineering**, leveraging my military background in supply chain operations while developing hands-on expertise in networking, data center operations, cloud technologies, and cybersecurity.
+I'm pursuing a career in infrastructure and cybersecurity engineering, with a focus on building, managing, and securing enterprise systems.
 
-This GitHub serves as a portfolio documenting my technical projects, practical experience, and continuous professional development.
+This portfolio documents my hands-on labs, technical projects, and continued development across networking, systems administration, and security.
 
 ## 🧠 Technical Skills
 
